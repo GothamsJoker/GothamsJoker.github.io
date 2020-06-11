@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-First Header | Second Header
+Code Language | Games
 ------------ | -------------
 Java | Minecraft
 Programming | Plugins
