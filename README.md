@@ -21,6 +21,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+Code Language | Games
+------------ | -------------
+Java | Minecraft
+Programming | Plugins
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
