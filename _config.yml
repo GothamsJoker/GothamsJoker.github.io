@@ -1,3 +1,10 @@
 theme: jekyll-theme-slate
 title: Joker's Fun House!
 description: Stay tuned for upcoming projects!
+table: 
+ Code Language | Games
+------------ | -------------
+Java | Minecraft
+Programming | Plugins
+
+
