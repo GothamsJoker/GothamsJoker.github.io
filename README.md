@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Joker's Fun House
 
 You can use the [editor on GitHub](https://github.com/GothamsJoker/GothamsJoker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+First Header | Second Header
+------------ | -------------
+Java | Minecraft
+Programming | Plugins
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
