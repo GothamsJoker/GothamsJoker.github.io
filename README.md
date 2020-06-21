@@ -1,12 +1,12 @@
 ## Welcome to Joker's Fun House
 
 
-### Here we go!
+### Here..we..go!
 
 
 
-- This is my first page
-- Introduce a little chaos
+
+- Lets introduce a little chaos
 
 
 
