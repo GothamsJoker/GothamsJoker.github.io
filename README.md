@@ -14,4 +14,7 @@ Code Language | Games
 ------------ | -------------
 Java | Minecraft
 Programming | Plugins
-https://github.com/GothamsJoker/Npc
+
+MineCraft Additions| Plugin Description
+------------ | -------------
+https://github.com/GothamsJoker/Npc | Custom NPC Plugin
