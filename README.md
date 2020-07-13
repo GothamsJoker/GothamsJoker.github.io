@@ -18,7 +18,7 @@ Python | Machine Learning
 
 MineCraft Additions| Plugin Description
 ------------ | -------------
-https://github.com/GothamsJoker/Npc | Custom NPC Plugin
+[GitHub](https://github.com/GothamsJoker/Npc) | Custom NPC Plugin
 https://github.com/GothamsJoker/MineCraft2 | Various MC Plugin Bundle
 https://github.com/GothamsJoker/CustomMob | Creates a custom thief
 
