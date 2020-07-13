@@ -3,27 +3,30 @@
 
 ### Here..we..go!
 
+_Just another developer lost in the wide array of programming_
+
 
 
 
 - Lets introduce a little chaos
 
 
+     ### My focuses:
+    Code Language | Games
+    ------------ | -------------
+    Java | Minecraft
+    Python | Machine Learning
 
-Code Language | Games
------------- | -------------
-Java | Minecraft
-Python | Machine Learning
-
-
-MineCraft Additions| Plugin Description
------------- | -------------
-[GitHub](https://github.com/GothamsJoker/Npc) | Custom NPC Plugin
-https://github.com/GothamsJoker/MineCraft2 | Various MC Plugin Bundle
-https://github.com/GothamsJoker/CustomMob | Creates a custom thief
+    ### Examples:
+    Links| Description
+    ------------ | -------------
+    [GitHub](https://github.com/GothamsJoker/Npc) | Custom NPC Plugin
+    [GitHub](https://github.com/GothamsJoker/MineCraft2) | Various MC Plugin Bundle
+    [GitHub](https://github.com/GothamsJoker/CustomMob) | Creates a custom thief
 
 _Stay tuned for more!_
 
-### Upcoming:
-- Minecraft minigames
-- plugins
+   ### Upcoming:
+   - Minecraft minigames
+   - Plugins
+   - Various python projects
