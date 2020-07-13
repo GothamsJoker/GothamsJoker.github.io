@@ -13,7 +13,8 @@
 Code Language | Games
 ------------ | -------------
 Java | Minecraft
-Programming | Plugins
+Python | Machine Learning
+
 
 MineCraft Additions| Plugin Description
 ------------ | -------------
