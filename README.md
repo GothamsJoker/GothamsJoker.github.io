@@ -22,9 +22,11 @@ Code Language | Games
 
 Links| Description
 ------------ | -------------
-  [GitHub](https://github.com/GothamsJoker/Npc) | Custom NPC Plugin
-  [GitHub](https://github.com/GothamsJoker/MineCraft2) | Various MC Plugin Bundle
+  [GitHub](https://github.com/GothamsJoker/Npc) | Custom NPC plugin
+  [GitHub](https://github.com/GothamsJoker/MineCraft2) | Various MC plugin bundle
   [GitHub](https://github.com/GothamsJoker/CustomMob) | Creates a custom thief
+  [GitHub](https://github.com/GothamsJoker/SnakeGame) | SnakeGame
+  [GitHub](https://github.com/GothamsJoker/Calculator) | Simple calculator
 
 _Stay tuned for more!_
 
