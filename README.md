@@ -27,6 +27,7 @@ Links| Description
   [GitHub](https://github.com/GothamsJoker/CustomMob) | Creates a custom thief
   [GitHub](https://github.com/GothamsJoker/SnakeGame) | SnakeGame
   [GitHub](https://github.com/GothamsJoker/Calculator) | Simple calculator
+  [GitHub](https://github.com/GothamsJoker/WebScraper) | Website Scraper
 
 _Stay tuned for more!_
 
