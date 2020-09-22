@@ -1,0 +1,105 @@
+body {
+   background-color: BlueViolet;
+}
+h1 {
+   color: Lime;
+   font-style: italic;
+   font-size: 120%;
+   text-align:center;
+}
+h2 {
+   Color: Lime;
+   text-align: center;
+   font-size: 120%;
+   font-style: italic;
+}
+h3 {
+   Color: Lime;
+   text-align: center;
+   font-size: 120%;
+   font-style: italic;
+}
+h4 {
+   Color: Lime;
+   text-align: center;
+   font-size: 120%;
+   font-style: italic;
+}
+h5 {
+   Color: Lime;
+   text-align: center;
+   font-size: 120%;
+   font-style: italic;
+}
+p {
+   color: Coral;
+   font-style: italic;
+   font-size: 110%;
+   text-align: center;
+   max-width: 30%;
+   margin: auto;
+}
+.fixed {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 450px;
+    height: 700px;
+    border: 10px solid Lime;
+    background-color: black;
+}
+ul {
+    font-size: 110%;
+    max-width: 12%;
+    margin: auto;
+    text-align: left;
+    list-style-type: square;
+    font-weight: bold;
+}
+ol {
+    font-size: 110%;
+    max-width: 12%;
+    margin: auto;
+    text-align: left;
+    list-style-type: roman;
+    font-weight: bold;
+}
+dt {
+    font-size: 110%;
+    max-width: 12%;
+    margin: auto;
+    text-align: left;
+}
+dd {
+    font-size: 100%;
+    max-width: 33%;
+    margin: auto;
+    text-align: left;
+}
+#header {
+    background-color: DimGray;
+}
+#header3 {
+    background-color: DimGray;
+}
+#header4 {
+    background-color: DimGray;
+}
+#header5 {
+    background-color: DimGray;
+}
+#header6{
+    background-color: black;
+    max-width: 20%;
+    margin: auto;
+}
+#header7{
+    background-color: black;
+    max-width: 20%;
+    margin: auto;
+}
+#header8{
+    background-color: black;
+    max-width: 20%;
+    margin: auto;
+}
